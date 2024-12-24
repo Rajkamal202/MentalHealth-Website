@@ -28,7 +28,7 @@ This repository contains the source code and documentation for the **Intelligent
 - **Framework**: React
 - **Styling**: TailwindCSS
 - **Visualization**: Recharts
-- **State Management**: React Hooks
+- **State Management**: Context API
 
 ### Backend:
 - **Framework**: Node.js with Express
